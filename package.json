@@ -1,0 +1,13 @@
+{
+  "name": "bookstore-server",
+  "version": "1.0.0",
+  "description": "bookstore backend server via graphql and express",
+  "main": "index.js",
+  "repository": "https://github.com/DreamWorld420/bookstore-server",
+  "author": "DreamWorld420 <dreamworld420@protonmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^2.0.19",
+    "typescript": "^4.7.4"
+  }
+}
